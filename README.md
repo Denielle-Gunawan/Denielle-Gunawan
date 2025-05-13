@@ -1,6 +1,8 @@
 ## Hi, I'm Denielle Gunawan 👋
 
-![denil](asset/1.jpg)
+<div align="center">
+  <img src="asset/1.jpg" alt="denil" width="100%"/>
+</div>
 
 <!--
 **Denielle-Gunawan/Denielle-Gunawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
