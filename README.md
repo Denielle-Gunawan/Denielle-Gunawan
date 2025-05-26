@@ -1,29 +1,14 @@
 ## Hi, I'm Denielle Gunawan 👋
 
 <div align="center">
-  <img src="asset/1.jpg" alt="denil" width="100%" height="80%"/>
+  <img src="asset/welcome.png" alt="denil" width="100%" height="80%"/>
 </div>
 
-
-**Denielle-Gunawan/Denielle-Gunawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Saya adalah seorang lulusan SMK dengan jurusan RPL di SMK Gracia Bandung. Saya pernah menjalani PKL di [CyberLabs](CyberLabs.com) selama 3 bulan. Saya senang membangun aplikasi web sederhana, mengelola sistem informasi.
+Saya adalah seorang lulusan SMK dengan jurusan RPL di SMK Gracia Bandung. Saya pernah menjalani PKL di [CyberLabs](https://cyberlabs.co.id/) selama 3 bulan. Saya senang membangun aplikasi web sederhana, mengelola sistem informasi.
 
 ---
 
-## 🚀 Proyek Unggulan
+## 🚀 Proyek Unggulanhttps://pages.github.com/
 
 ### 🍽️ [Koperasi Web App](https://github.com/Denielle-Gunawan/miniel-store)
 ### Sistem penjualan dan pengelolaan produk untuk koperasi sekolah.
