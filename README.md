@@ -6,7 +6,7 @@
 
 Saya adalah seorang lulusan SMK dengan jurusan RPL di SMK Gracia Bandung. Saya pernah menjalani PKL di [CyberLabs](https://cyberlabs.co.id/) selama 3 bulan. Saya senang membangun aplikasi web sederhana, mengelola sistem informasi.
 
-saya menyukai coding   <img src="asset/white-bleach.gif" alt="denil" width="100%" height="10%"/>
+saya menyukai coding   <img src="asset/white-bleach.gif" alt="denil" width="15%" />
 
 ---
 
