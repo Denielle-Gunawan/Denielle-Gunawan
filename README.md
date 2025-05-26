@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="asset/welcome.png" alt="denil" width="100%" height="70%"/>
+  <img src="asset/welcome.png" alt="denil" width="100%" height="50%"/>
 </div>
 
 Nama saya Denielle Gunawan seorang lulusan SMK dengan jurusan RPL di SMK Gracia Bandung. 
