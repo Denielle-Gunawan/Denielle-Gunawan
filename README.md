@@ -1,12 +1,8 @@
-## Hi, I'm Denielle Gunawan 👋
-
 <div align="center">
   <img src="asset/welcome.png" alt="denil" width="100%" height="70%"/>
 </div>
 
-Saya adalah seorang lulusan SMK dengan jurusan RPL di SMK Gracia Bandung. Saya pernah menjalani PKL di [CyberLabs](https://cyberlabs.co.id/) selama 3 bulan. Saya senang membangun aplikasi web sederhana, mengelola sistem informasi.
-
-saya menyukai coding   <img src="asset/white-bleach.gif" alt="denil" width="15%" />
+Nama saya Denielle Gunawan seorang lulusan SMK dengan jurusan RPL di SMK Gracia Bandung. 
 
 ---
 
@@ -42,16 +38,8 @@ PHP, MySQL, HTML, CSS, JavaScript
 
 ## 📚 Pengalaman
 
-- **PKL di CyberLabs Bandung (2024)**  
-  Membuat website tasty food menggunakan Laravel 11
-  Penggunaan booststrap
-  Wordpress
-  Menghosting website
+- **PKL di [CyberLabs](https://cyberlabs.co.id/) Bandung (2024)**  
 
-- **Ketua OSIS (2024–2025)**  
-
-- **Asisten Pelajaran TIK SD & SMP**  
-  Membantu siswa belajar mengetik, menggunakan internet, serta mengenalkan konsep komputer dasar.
 
 ---
 
@@ -68,5 +56,3 @@ PHP, MySQL, HTML, CSS, JavaScript
 
 ## 📫 Kontak
 
-- ✉️ Email: denzz0401@email.com
-- 🌐 LinkedIn: [linkedin.com/in/namakamu](https://linkedin.com/in/namakamu)
