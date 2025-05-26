@@ -6,20 +6,15 @@ Nama saya Denielle Gunawan seorang lulusan SMK dengan jurusan RPL di SMK Gracia 
 
 ---
 
-## 🚀 Proyek Unggulanhttps://pages.github.com/
+## 🚀 Proyek Unggulan
 
 ### 🍽️ [Koperasi Web App](https://github.com/Denielle-Gunawan/miniel-store)
 ### Sistem penjualan dan pengelolaan produk untuk koperasi sekolah.
 ##### Fitur utama:
 
-- Manajemen produk lengkap: Tambah, Ubah, Hapus (CRUD) produk dan stok
+- Manajemen produk lengkap: (CRUD) produk dan stok
 - Sistem penjualan fleksibel dengan kemampuan input banyak produk sekaligus
-
-- 
-
-- Membuat data grafik penjualan
-
-- User-friendly interface dengan kombinasi PHP, MySQL, HTML/CSS, dan JavaScript
+- Data grafik penjualan
 
 ##### Teknologi yang digunakan:
 PHP, MySQL, HTML, CSS, JavaScript
